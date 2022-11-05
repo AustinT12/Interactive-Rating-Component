@@ -21,4 +21,4 @@ The goal of this challenge from front end mentor is to create a component that m
 6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
 
 ## Live Page
-[Interactive Rating Component]([http://127.0.0.1:5500/index.html](https://austint12.github.io/Interactive-Rating-Component/))
+[Interactive Rating Component](https://austint12.github.io/Interactive-Rating-Component/)
