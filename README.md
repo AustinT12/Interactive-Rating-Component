@@ -6,6 +6,8 @@ The goal of this challenge from front end mentor is to create a component that m
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
+![Screen Shot 2022-11-05 at 4 47 07 PM](https://user-images.githubusercontent.com/100303431/200140687-0337f735-0f2a-4bec-9b6b-fc9f4597a98b.png)
+
 ## The project was built using:
 * HTML
 * CSS
